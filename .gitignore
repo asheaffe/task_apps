@@ -1,0 +1,5 @@
+# Local task data and Python environments
+results/
+.venv/
+__pycache__/
+*.py[cod]
