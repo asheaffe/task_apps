@@ -1,0 +1,2 @@
+# Dependencies for stroop-test.py only (n-back has additional dependencies).
+pygame>=2.5,<3
